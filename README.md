@@ -1,9 +1,19 @@
+<div align="left">
+
+<br>
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+</div><br>
+
 ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
 <a href="https://www.instagram.com/geonwoo03_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:redgil77@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="mailto:redgil030802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div><br>
 
 ## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:row;">
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -12,3 +22,6 @@
 
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div><br>
+</div>
