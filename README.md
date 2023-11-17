@@ -1,7 +1,7 @@
 ## 📞 Contact 📞
 <a href="https://www.instagram.com/geonwoo03_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="redgil77@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=Outlook&logoColor=white"/></a>
-<a href="redgil030802@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="redgil030802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🔨 Once I've used 🔨
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
