@@ -1,6 +1,5 @@
 <div align="left">
 
-<br>
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
   <a href="https://easyhomputer.tistory.com](https://velog.io/@redgil77">
