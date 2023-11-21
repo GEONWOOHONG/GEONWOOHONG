@@ -23,6 +23,7 @@
   <a href="https://www.instagram.com/geonwoo03_dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
+ </a>
   <a href="mailto:redgil77@smail.kongju.ac.kr">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/>
   </a>
