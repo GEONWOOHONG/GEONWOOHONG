@@ -9,15 +9,6 @@
  
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-  <a href="https://dev-lazy.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-  <a href="https://velog.io/@redgil77">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
-    </a>
-</div><br>
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.instagram.com/geonwoo03_dev/">
