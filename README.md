@@ -1,8 +1,12 @@
-<div align="center">
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGEONWOOHONG&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br>
- 
+
+
+## Undergraduate Research Assistant (Kongju National University, InsLab)
+## Interest
+- **ML/DL : Specifically, I have a profound interest in predictive modeling using time series data. My focus is on exploring ways to improve pattern recognition and forecasting accuracy through complex data analysis and algorithm development in this domain.**
+
 
  
 <br>
