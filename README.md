@@ -10,7 +10,7 @@
 
 ## Paper
 ### Undergraduate Student
-
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737582">
 
 ## Contact
 <div style="display:flex; flex-direction:row;">
