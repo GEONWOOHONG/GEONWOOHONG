@@ -12,7 +12,7 @@
 ### Undergraduate Student
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737582">
   <p>메타러닝 필요성과 응용 및 동향에 관한 연구 (Research on the necessity, application, and trend of meta-learning)</p>
-<br>
+ 
 ## Contact
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.instagram.com/geonwoo03_dev/">
