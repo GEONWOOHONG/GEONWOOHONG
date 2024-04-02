@@ -11,9 +11,9 @@
 ## Paper
 ### Undergraduate Student
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737515">
- <p>다대일 서비스 플랫폼에서의 소켓 통신 효율성 개선 방안 (Research on the necessity, application, and trend of meta-learning)</p>
+ <p>다대일 서비스 플랫폼에서의 소켓 통신 효율성 개선 방안 (Research on the necessity, application, and trend of meta-learning)</p> </a>
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737582">
- <p>메타러닝 필요성과 응용 및 동향에 관한 연구 (Research on the necessity, application, and trend of meta-learning)</p>
+ <p>메타러닝 필요성과 응용 및 동향에 관한 연구 (Research on the necessity, application, and trend of meta-learning)</p> </a>
 <p>Analyzing Impact of Input Feature on LSTM-Based Maximum Wave Height Prediction (In Progress)</p>
  
 ## Contact
