@@ -3,7 +3,7 @@
 <br>
 
 
-## Undergraduate Research Assistant (Kongju National University, InsLab)
+## Undergraduate Research Assistant (InsLab, Kongju National University)
 ## Interest
 - **ML/DL : I have a profound interest in predictive modeling using time series data.**
 - **Data Analysis : I'm interested in extracting meaningful insights from time series data, focusing on forecasting and pattern recognition to inform decisions and strategies.**
